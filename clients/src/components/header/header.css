@@ -1,0 +1,54 @@
+
+.headerTitles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #F29A06ff;
+}
+
+.headerTitleSm {
+  position: absolute;
+  width: 980px;
+  font-size: 100px;
+  font-family: Helvetica;
+  line-height: 1.06;
+  letter-spacing: -0.02em;
+  margin-top: 150px;
+}
+
+.headerTitleLg {
+  position: absolute;
+  margin-top: 370px;
+  width: 980px;
+  font-size: 100px;
+  font-family: Helvetica;
+  line-height: 1.06;
+  letter-spacing: -0.02em;
+}
+
+.headerImg{
+    width: 100%;
+    height: 700px;
+    margin-top: 0;
+    object-fit: cover;
+}
+
+.btn {
+  cursor: pointer;
+  background-color: black;
+  color: #F29A06ff;
+  padding: 18px 30px;
+  border: 1px solid #F29A06ff;
+  transition: all 0.3s ease-out;
+  border-radius: 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+
+
+
+
